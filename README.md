@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vedang Thete</h1>
 <h3 align="center">A developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.atlantapublicschools.us/cms/lib/GA01000924/Centricity/Domain/16791/blue_boy_typing_nothought.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedangthete30&label=Profile%20views&color=0e75b6&style=flat" alt="vedangthete30" /> </p>
 
 - 🌱 I’m currently learning **Android, Python**
 
