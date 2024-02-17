@@ -3,7 +3,7 @@
 <h3 align="center">A developer from India</h3>
 
 
-- 🌱 I’m currently learning **Android, Python**
+- 🌱 I’m currently learning **Android, Python, React Js, React Native**
 
 - 💬 Ask me about **C, C++, JAVA**
 
